@@ -4,5 +4,5 @@
 
   <br>
 
-  ![Top Langs](https://github-readme-stats-six-ruddy-41.vercel.app/api/top-langs/?username=ZherriDev&layout=compact&theme=tokyonight&langs_count=3&include_all_commits=true)
+  ![Top Langs](https://github-readme-stats-roan-xi-56.vercel.app/api/top-langs/?username=zherri&layout=compact&theme=tokyonight&langs_count=3&include_all_commits=true)
 </div>
