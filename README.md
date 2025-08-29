@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>@ZherriDev</h2>
+  <h2>@zherri</h2>
   <p>18 y.o. software engineer just doing my things!</p>
 
   <br>
