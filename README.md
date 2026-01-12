@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm a Web and Mobile Developer, and Cybersecurity enthusiast.
+#### I'm a Web and Mobile Developer, and Cybersecurity enthusiast.
 
 
 # 💻 Tech Stack:
